@@ -1,0 +1,12 @@
+__pycache__
+*.dat
+*-checkpoint.ipynb
+*-checkpoint.py
+*.zip
+profile_output*
+data/all/
+.vscode/
+app.log
+*.cache
+data/
+result/
